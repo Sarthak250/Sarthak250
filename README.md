@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarthak00937233" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak00937233?logo=twitter&style=for-the-badge" alt="sarthak00937233" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Market Prediction**
+- 🔭 I’m currently working on **Google cloud**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
