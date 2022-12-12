@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sarthaksingh250@gmail.com**
 
-- ⚡ Fun fact **I am friendly and have a jolly nature**
+- ⚡ Fun fact **I like debugging problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
